@@ -1,5 +1,5 @@
 # Dll-hijacking
-获取exe程序启动时调用的有哪些dll依赖
+此工具可获取exe程序启动时调用的有哪些dll依赖
 
 # 使用方法
 执行 tasklist 命令获取运行的进程
